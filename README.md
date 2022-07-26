@@ -1,4 +1,4 @@
-## Olá, eu sou Letícia Pinheiro! ✌️
+## Olá, eu sou Letícia Pinheiro! ✌️🌲
 <div align="center">
   <a href="https://github.com/Leticia-Pinheiro">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Pinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,9 +20,9 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/le.gomezp/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href="mailto:leticia.gomezpinheiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leticia-pinheiro-33354a1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/le.gomezp/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the -badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:leticia.gomezpinheiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
+  <a href="https://www.linkedin.com/in/leticia-pinheiro-33354a1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Animação de cobra](https://github.com/Leticia-Pinheiro/Leticia-Pinheiro/blob/output/github-contribution-grid-snake.svg)
  
