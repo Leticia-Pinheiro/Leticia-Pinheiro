@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Letícia Pinheiro! ✌️🌲</h1>
 
-<img align="right" alt="Leticia-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_bk0qs4Yh.png">
+<img align="right" alt="Leticia-pic" height="110" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_bk0qs4Yh.png">
 
 - Pode me chamar de Lê se quiser 😊 
 - Me aperfeiçoando cada dia um pouco mais com a programação
