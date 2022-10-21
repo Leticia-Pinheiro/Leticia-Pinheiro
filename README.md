@@ -13,7 +13,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Pinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Pinheiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+
 
 ## Entre em contato comigo
  
@@ -24,7 +24,7 @@
   <img align="right" alt="Leticia-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_bk0qs4Yh.png"> 
 
 ##  Idiomas e ferramentas:
-
+<div style="display: inline_block"><br>
 <img alt="JS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/javascript+original-1324760550805182024.png" />
 <img alt="TS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/typescript+original-1324760574003158198.png" />
 <img alt="HTML" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+html-1324451320119191066.png" />
