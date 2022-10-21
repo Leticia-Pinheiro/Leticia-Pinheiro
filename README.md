@@ -1,9 +1,10 @@
 ## Olá, eu sou Letícia Pinheiro! ✌️🌲
 
+
 - Pode me chamar de Lê se quiser 😊 
 - Me aperfeiçoando cada dia um pouco mais com a programação
 - Sou desenvolvedora Fullstack com um pézinho maior no Back-End hahah
-  <img align="right" alt="Leticia-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_bk0qs4Yh.png"> 
+  
   
 
 ##  Estatísticas do Github
@@ -20,6 +21,7 @@
   <a href = "mailto:leticia.gomezpinheiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
   <a href="https://www.linkedin.com/in/leticia-pinheiro-33354a1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  <img align="right" alt="Leticia-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_bk0qs4Yh.png"> 
 
 ##  Idiomas e ferramentas:
 
