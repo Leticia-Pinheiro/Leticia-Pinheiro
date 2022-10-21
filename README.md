@@ -1,7 +1,10 @@
 ## Olá, eu sou Letícia Pinheiro! ✌️🌲
+
 - Pode me chamar de Lê se quiser 😊 
 - Me aperfeiçoando cada dia um pouco mais com a programação
 - Sou desenvolvedora Fullstack com um pézinho maior no Back-End hahah
+  <img align="right" alt="Leticia-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_bk0qs4Yh.png"> 
+  
 
 ##  Estatísticas do Github
 <div align="center">
@@ -34,8 +37,8 @@
 <img alt="MONGODB" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/mongodb-1330289846047266747.png" />
 <img alt="TRELLO" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/trello-1330289861633868130.png" />
 <img alt="SLACK" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/slack-1330289859031924005.png" />
-<img align="right" alt="Leticia-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_bk0qs4Yh.png"> 
-  </ br>
+
+  
 </div>
   
 
