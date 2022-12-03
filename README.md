@@ -7,6 +7,7 @@
 - Sou desenvolvedora Fullstack com um pézinho maior no Back-End hahah
 - Adoro animes, capuccino e gatos
 - Amo contato com a natureza  
+- Atualmente estudando testes e devOps
   
 
 <h2 align="left">Estatísticas do GitHub</h2>
