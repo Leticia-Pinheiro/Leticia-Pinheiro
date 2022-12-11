@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Letícia Pinheiro! ✌️🌲</h1>
+<h1 align="center">Olá, eu sou Letícia Pinheiro! 🚀</h1>
 
 <img align="right" alt="Leticia-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202211/1801602_VKUUJQRb.png">
 
