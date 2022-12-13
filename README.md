@@ -2,7 +2,7 @@
 
 <img align="left" alt="Leticia-pic" height="300" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/41329_mer7NCTU.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=600&lines=Dev+FullStack+Junior)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+FullStack+Junior)](https://git.io/typing-svg)
 
 
 
