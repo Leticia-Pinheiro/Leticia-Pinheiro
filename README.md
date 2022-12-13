@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Letícia Pinheiro! 🚀</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Letícia%20Pinheiro🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 <img align="left" alt="Leticia-pic" height="250" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/41329_mer7NCTU.png">
 
