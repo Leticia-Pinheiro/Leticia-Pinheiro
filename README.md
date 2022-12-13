@@ -4,10 +4,13 @@
 
 - Pode me chamar de Lê se quiser 😊 
 - Me aperfeiçoando cada dia um pouco mais com a programação
-- Sou desenvolvedora Fullstack com um pézinho maior no Back-End hahah
+- Formada Desenvolvedora FullStack pelo bootcamp Driven Education
+- Um pézinho maior no Back-End hahah
 - Adoro animes, capuccino e gatos
 - Amo contato com a natureza  
 - Atualmente estudando testes e devOps
+- Participando do programa Oracle Next Education
+
   
 
 <h2 align="left">Estatísticas do GitHub</h2>
