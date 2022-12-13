@@ -42,8 +42,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/express/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/prisma/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/jest/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/1C6B94"/>        
+    <img height="40" width="40" src="https://cdn.simpleicons.org/jest/1C6B94"/>           
   </p>
   
   <h3 align="center">Banco de Dados</h3>
