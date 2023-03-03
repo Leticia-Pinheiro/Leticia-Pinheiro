@@ -13,7 +13,7 @@
 - Um pézinho maior no Back-End hahah <br>
 - Adoro animes, capuccino e gatos <br>
 - Amo contato com a natureza  <br>
-- Atualmente estudando testes e devOps <br>
+- Atualmente estudando Java <br>
 - Participando do programa Oracle Next Education <br>
 </div>
   
